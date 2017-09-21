@@ -10,6 +10,7 @@
 
 @section('content')
     <p>siia tuleb sisu</p>
+    <p>Aaaaaaaarghhhhhhh</p>
 @endsection
 
 @component('alert')
